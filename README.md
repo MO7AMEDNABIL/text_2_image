@@ -43,7 +43,7 @@ Flask + Flask-CORS
 
 Enter a prompt:
 
-A futuristic flying car in a cyberpunk city
+"A futuristic flying car in a cyberpunk city"
 
 
 The system generates a high-quality image in seconds.
