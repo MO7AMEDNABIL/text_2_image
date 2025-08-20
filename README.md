@@ -21,10 +21,9 @@ It runs on **Google Colab** (with free T4 GPU) and exposes a Flask server using 
 - Ngrok
 - HTML, CSS, JavaScript
 
-☁️ Running on Google Colab with GPU
+# ☁️ Running on Google Colab with GPU
 
 Open Google Colab
-.
 
 1) Upload txt_2_imahe.py
 
@@ -40,7 +39,7 @@ Flask + Flask-CORS
 5)Copy the ngrok public URL shown in the output.
 5)Paste the URL into your frontend fetch request.
 
-🎨 Example Usage
+# 🎨 Example Usage
 
 Enter a prompt:
 
